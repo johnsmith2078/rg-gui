@@ -33,6 +33,10 @@ RG-GUI是一个基于Qt的图形用户界面，用于ripgrep (rg) 命令行工�
 5. 点击"搜索"按钮开始搜索
 6. 查看搜索结果
 
+## 界面预览
+
+![RG-GUI界面预览](screenshot.jpg)
+
 ## 许可证
 
 本项目采用MIT许可证。详情请参阅[LICENSE](LICENSE)文件。 
